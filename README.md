@@ -8,6 +8,6 @@ Im a 4th year international exchange student from Chile for the Winter Quarter. 
 
 ## Course Objectives
 
-My knowledge is reduced to a very superfitial use of ArcGis Studio, being able to reproduce a basic Cartography through a basic managment of the Data Base and some processing. With this course, im lloking forward to work independently in specific Data Bases, and generate sophisticated processing and coding in the data, to subsequently reproduce more complex geospatial illustrations. My interest to work throughout the quarter are Urban Sprwal and clusteting around the Metropolitan Area of Los Angeles. 
+My knowledge is reduced to a very superfitial use of ArcGis Studio, being able to reproduce a basic Cartography through a basic managment of the Data Base and some processing. With this course, im looking forward to work independently in specific Data Bases, and generate sophisticated processing and coding in the data, to subsequently reproduce more complex geospatial illustrations. My interest to work throughout the quarter are Urban Sprawl and clusteting around the Metropolitan Area of Los Angeles. 
 
 
