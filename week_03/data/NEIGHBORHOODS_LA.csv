@@ -1,0 +1,245 @@
+OBJECTID;Neighborhood;sup_dist;SHAPE_Length;SHAPE_Area
+1;Acton;District 5;5,54615E+14;1,00017E+14
+2;Agoura Hills;District 3;2,55669E+14;2,06274E+14
+3;Agua Dulce;District 5;4,39983E+14;8,00043E+14
+4;Alhambra;District 1;2,10733E+14;1,92878E+14
+5;Alondra Park;District 2;7,81229E+14;2,87711E+14
+6;Altadena;District 5;3,02329E+14;2,20656E+14
+7;Angeles Crest;District 5;2,07924E+14;1,09179E+14
+8;Arcadia;District 5;3,99384E+14;2,82279E+14
+9;Arleta;District 3;1,22657E+14;7,84795E+14
+10;Artesia;District 4;1,22763E+14;4,11867E+14
+11;Atwater Village;District 1;1,20616E+14;4,49772E+14
+12;Avalon;District 4;1,67206E+14;6,88143E+14
+13;Avocado Heights;District 1;2,67004E+14;7,45535E+13
+14;Azusa;District 1;4,51063E+14;2,49907E+14
+15;Baldwin Park;District 1;2,651E+14;1,71478E+14
+16;Bel-Air;District 3;1,90098E+13;1,61271E+14
+17;Bell;District 4;2,02967E+13;6,45348E+14
+18;Bellflower;District 4;1,77035E+14;1,56369E+14
+19;Bell Gardens;District 4;1,20222E+14;6,26611E+14
+20;Beverly Crest;District 3;2,83661E+14;2,08438E+14
+21;Beverly Grove;District 3;1,37163E+14;4,17066E+14
+22;Beverly Hills;District 3;2,60545E+14;1,44254E+14
+23;Beverlywood;District 3;6,13263E+14;2,00869E+14
+24;Boyle Heights;District 1;1,71871E+14;1,64838E+14
+25;Bradbury;District 5;1,09996E+14;4,88285E+14
+26;Brentwood;District 3;3,57323E+14;3,85174E+14
+27;Burbank;District 5;3,08284E+14;4,39286E+14
+28;Calabasas;District 3;4,27452E+14;4,6944E+14
+29;Canoga Park;District 3;1,49436E+14;1,1018E+14
+30;Carson;District 2;3,8972E+14;4,83042E+14
+31;Carthay;District 2;4,6383E+14;1,2764E+14
+32;Castaic;District 5;2,83714E+14;1,39209E+14
+33;Castaic Canyons;District 5;1,89771E+14;4,90248E+14
+34;Century City;District 3;5,46501E+14;1,77189E+14
+35;Cerritos;District 4;3,61686E+14;2,23528E+14
+36;Charter Oak;District 5;1,73132E+14;2,33196E+14
+37;Chatsworth;District 3;4,24492E+14;3,86456E+14
+38;Chatsworth Reservoir;District 3;1,15772E+14;4,56478E+14
+39;Cheviot Hills;District 3;8,13273E+14;3,88506E+14
+40;Chinatown;District 1;7,14815E+14;2,30009E+14
+41;Citrus;District 1;1,69146E+14;2,56014E+14
+42;Claremont;District 5;4,02207E+14;4,2176E+14
+43;Commerce;District 4;2,8753E+14;1,6631E+14
+44;Compton;District 2;5,1442E+14;2,58988E+14
+45;Covina;District 1;4,08696E+14;1,92392E+14
+46;Cudahy;District 4;1,06623E+14;3,10489E+14
+47;Culver City;District 2;3,56696E+14;1,31251E+14
+48;Cypress Park;District 1;8,60276E+14;1,83301E+13
+49;Del Aire;District 2;1,01578E+14;2,49919E+13
+50;Del Rey;District 2;1,53678E+14;6,19805E+14
+51;Desert View Highlands;District 5;7,45122E+14;1,12801E+14
+52;Diamond Bar;District 1;3,40917E+14;3,82289E+14
+53;Downey;District 4;2,7294E+14;3,16433E+14
+54;Downtown;District 1;1,69867E+14;1,47623E+14
+55;Duarte;District 5;3,42048E+14;1,69382E+14
+56;Eagle Rock;District 1;1,82353E+14;1,07609E+14
+57;East Compton;District 2;1,49932E+14;2,1061E+14
+58;East Hollywood;District 1;9,67941E+14;6,01841E+14
+59;East La Mirada;District 4;8,18994E+14;2,80302E+14
+60;East Los Angeles;District 1;2,63747E+14;1,88768E+14
+61;East Pasadena;District 5;1,22631E+13;3,31112E+14
+62;East San Gabriel;District 5;2,66533E+14;5,52431E+14
+63;Echo Park;District 1;1,26981E+14;6,06715E+14
+64;Elizabeth Lake;District 5;2,44764E+14;1,60626E+14
+65;El Monte;District 1;3,2846E+14;2,45166E+14
+66;El Segundo;District 2;1,78731E+14;1,37833E+14
+67;El Sereno;District 1;1,52627E+13;1,05436E+14
+68;Elysian Park;District 1;8,7989E+13;4,16172E+14
+69;Elysian Valley;District 1;8,39945E+13;1,99837E+13
+70;Encino;District 3;2,68363E+14;2,40535E+14
+71;Fairfax;District 3;7,2725E+14;3,12168E+14
+72;Gardena;District 2;1,93869E+14;1,47511E+14
+73;Glassell Park;District 1;1,51841E+14;6,96732E+14
+74;Glendale;District 5;5,73853E+14;7,75781E+14
+75;Glendora;District 5;4,48305E+14;4,94744E+14
+76;Granada Hills;District 3;2,70329E+14;3,83257E+14
+77;Green Valley;District 5;1,49042E+12;6,63332E+14
+78;Griffith Park;District 5;2,12272E+14;1,47679E+14
+79;Hacienda Heights;District 1;2,80622E+14;3,00426E+14
+80;Hancock Park;District 2;7,88046E+14;3,83989E+14
+81;Hansen Dam;District 5;1,12162E+14;4,97229E+14
+82;Harbor City;District 4;1,34089E+14;6,50781E+14
+83;Harbor Gateway;District 2;3,01696E+14;1,29723E+14
+84;Hasley Canyon;District 5;2,08035E+14;7,88465E+14
+85;Hawaiian Gardens;District 4;8,06489E+14;2,48459E+14
+86;Hawthorne;District 2;3,1204E+14;1,57286E+14
+87;Hermosa Beach;District 2;8,47683E+14;3,72851E+14
+88;Hidden Hills;District 3;1,32558E+14;4,31508E+14
+89;Highland Park;District 1;1,93027E+14;8,65422E+14
+90;Hollywood;District 3;1,48997E+14;8,86655E+13
+91;Hollywood Hills;District 5;2,16272E+14;1,78393E+14
+92;Hollywood Hills West;District 3;1,91362E+13;1,23362E+14
+93;Huntington Park;District 4;2,04827E+14;7,66797E+14
+94;Industry;District 1;1,13957E+14;3,1221E+14
+95;Inglewood;District 2;2,84387E+14;2,30446E+14
+96;Irwindale;District 1;4,08126E+14;2,42508E+14
+97;Koreatown;District 2;1,14966E+14;6,83045E+14
+98;La Crescenta-Montrose;District 5;1,64491E+14;8,68412E+14
+99;Ladera Heights;District 2;1,87159E+13;7,42963E+14
+100;La Habra Heights;District 4;2,04124E+14;1,57312E+12
+101;Lake Balboa;District 3;1,25401E+14;7,91943E+14
+102;Lake Hughes;District 5;3,78031E+14;2,39104E+14
+103;Lake Los Angeles;District 5;2,85193E+14;1,77156E+14
+104;Lake View Terrace;District 5;2,72676E+14;1,07296E+14
+105;Lakewood;District 4;3,79864E+14;2,39976E+14
+106;La Mirada;District 4;2,44196E+14;1,97947E+14
+107;Lancaster;District 5;1,52064E+14;2,60957E+13
+108;La Puente;District 1;2,65413E+14;8,81606E+14
+109;Larchmont;District 3;4,83347E+14;1,23033E+14
+110;La Verne;District 5;3,20008E+14;2,16985E+14
+111;Lawndale;District 2;1,10425E+14;4,96842E+14
+112;Lennox;District 2;9,89479E+14;2,68871E+14
+113;Leona Valley;District 5;5,21406E+13;3,90254E+14
+114;Lincoln Heights;District 1;1,50865E+14;6,35063E+14
+115;Littlerock;District 5;1,21292E+14;4,61062E+14
+116;Lomita;District 4;1,34039E+14;4,83345E+14
+117;Long Beach;District 4;1,4235E+13;1,3137E+14
+118;Lopez/Kagel Canyons;District 5;2,32821E+14;9,06673E+14
+119;Los Feliz;District 5;1,12265E+14;6,59992E+14
+120;Lynwood;District 4;2,19598E+14;1,23735E+14
+121;Malibu;District 3;8,0104E+14;5,02829E+14
+122;Manhattan Beach;District 2;1,45474E+13;1,00222E+14
+123;Marina del Rey;District 2;7,987E+14;3,67582E+14
+124;Mar Vista;District 3;1,2418E+14;7,31827E+14
+125;Mayflower Village;District 5;1,45648E+14;3,07614E+14
+126;Maywood;District 4;9,41031E+14;3,00231E+14
+127;Mid-Wilshire;District 2;1,27208E+14;7,03398E+14
+128;Mission Hills;District 3;1,29677E+14;8,08188E+12
+129;Monrovia;District 5;4,77571E+14;3,52764E+14
+130;Montebello;District 1;3,12201E+14;2,13713E+14
+131;La Canada Flintridge;District 5;2,78913E+14;2,1802E+14
+132;Montecito Heights;District 1;1,52941E+14;6,09697E+14
+133;Monterey Park;District 1;2,52226E+13;1,93737E+14
+134;Mount Washington;District 1;1,00089E+14;4,68251E+14
+135;Northeast Antelope Valley;District 5;2,20862E+14;1,12622E+14
+136;North El Monte;District 5;4,97156E+14;1,07995E+14
+137;North Hills;District 3;1,77739E+14;1,34541E+14
+138;North Hollywood;District 5;1,76564E+13;1,48658E+13
+139;Northridge;District 3;2,10041E+14;2,39967E+14
+140;Northwest Antelope Valley;District 5;1,91381E+14;5,45432E+14
+141;Northwest Palmdale;District 5;2,05531E+14;1,47316E+14
+142;North Whittier;District 4;2,48028E+14;1,38006E+14
+143;Norwalk;District 4;2,82452E+14;2,46493E+14
+144;Pacific Palisades;District 3;3,97989E+14;5,77738E+14
+145;Pacoima;District 3;2,00932E+14;1,80966E+13
+146;Palmdale;District 5;1,64225E+14;3,42165E+14
+147;Palms;District 3;1,18069E+14;4,91817E+13
+148;Palos Verdes Estates;District 4;2,17177E+14;1,1917E+14
+149;Panorama City;District 3;1,45002E+14;9,24477E+14
+150;Paramount;District 4;2,07421E+14;1,22545E+14
+151;Pasadena;District 5;7,96989E+13;6,36774E+14
+152;Pico Rivera;District 4;2,95536E+14;2,22053E+14
+153;Pico-Robertson;District 3;9,87891E+14;2,60884E+14
+154;Pico-Union;District 1;8,99142E+14;4,22167E+13
+155;Playa del Rey;District 2;2,07983E+14;6,95697E+14
+156;Playa Vista;District 2;9,50142E+14;3,28299E+14
+157;Pomona;District 1;4,78009E+14;5,79697E+14
+158;Porter Ranch;District 3;1,64228E+14;1,41657E+14
+159;Quartz Hill;District 5;2,11113E+14;9,62528E+14
+160;Ramona;District 1;2,97647E+14;9,13715E+14
+161;Rancho Dominguez;District 2;1,21189E+14;6,72763E+14
+162;Rancho Palos Verdes;District 4;6,13053E+14;3,37526E+14
+163;Rancho Park;District 3;6,21477E+14;1,51484E+14
+164;Redondo Beach;District 2;3,35239E+13;1,5758E+14
+165;Reseda;District 3;1,55677E+14;1,48606E+14
+166;Ridge Route;District 5;1,38133E+14;7,45539E+13
+167;Rolling Hills;District 4;1,59609E+14;9,078E+14
+168;Rolling Hills Estates;District 4;3,30845E+14;9,61474E+14
+169;Rosemead;District 1;2,93446E+14;1,30437E+14
+170;Rowland Heights;District 1;3,28476E+14;3,33132E+14
+171;San Dimas;District 5;5,18397E+14;3,95501E+14
+172;San Fernando;District 3;1,12997E+14;6,05573E+14
+173;San Gabriel;District 1;2,86873E+14;1,05434E+14
+174;San Marino;District 5;1,742E+13;9,57815E+14
+175;San Pasqual;District 5;4,62635E+14;6560118192
+176;San Pedro;District 4;6,94755E+14;3,03811E+14
+177;Santa Clarita;District 5;1,1686E+13;1,45664E+14
+178;Santa Fe Springs;District 4;4,83403E+14;2,23633E+13
+179;Santa Monica;District 3;2,12544E+14;2,16532E+14
+180;Sawtelle;District 3;1,21057E+14;6,80463E+13
+181;Sepulveda Basin;District 3;1,48099E+14;7,94415E+14
+182;Shadow Hills;District 5;3,39427E+14;3,24614E+14
+183;Sherman Oaks;District 3;2,53057E+14;2,31598E+14
+184;Sierra Madre;District 5;1,23865E+14;7,51851E+13
+185;Signal Hill;District 4;1,75251E+14;5,6061E+14
+186;Silver Lake;District 1;1,25002E+14;6,95595E+13
+187;South Diamond Bar;District 1;2,11987E+14;1,35128E+14
+188;Southeast Antelope Valley;District 5;1,62386E+14;4,9036E+13
+189;South El Monte;District 1;1,91885E+14;7,40404E+14
+190;South Gate;District 4;3,16747E+14;1,88125E+14
+191;South Pasadena;District 5;1,3525E+14;8,64607E+14
+192;South San Gabriel;District 1;2,10379E+14;3,58844E+13
+193;South San Jose Hills;District 1;1,35303E+14;3,75234E+14
+194;South Whittier;District 4;2,39266E+14;1,35672E+14
+195;Stevenson Ranch;District 5;2,32591E+14;7,90656E+14
+196;Studio City;District 5;2,25835E+14;1,59694E+14
+197;Sunland;District 5;1,85998E+14;1,01527E+12
+198;Sun Valley;District 3;2,2121E+14;2,3881E+14
+199;Sun Village;District 5;2,8062E+14;2,60262E+14
+200;Sylmar;District 3;3,45129E+13;3,16005E+13
+201;Tarzana;District 3;2,3402E+13;2,22598E+14
+202;Temple City;District 5;1,85313E+14;1,00714E+14
+203;Toluca Lake;District 5;8,1568E+14;3,08203E+14
+204;Topanga;District 3;4,14996E+14;4,86783E+14
+205;Torrance;District 4;4,02874E+14;5,19187E+14
+206;Tujunga;District 5;2,95195E+14;2,53925E+14
+207;Tujunga Canyons;District 5;1,74578E+14;5,8363E+14
+208;Unincorporated Catalina Island;District 4;1,06181E+14;1,81884E+14
+209;Unincorporated Santa Monica Mountains;District 3;9,56257E+14;2,25808E+14
+210;Unincorporated Santa Susana Mountains;District 5;1,21823E+14;1,98299E+14
+211;Universal City;District 5;5,332E+14;1,21612E+14
+212;Valinda;District 1;1,62562E+13;5,07411E+13
+213;Valley Glen;District 3;1,59478E+14;1,21727E+14
+214;Valley Village;District 5;9,75298E+14;5,28097E+14
+215;Val Verde;District 5;1,08807E+14;1,85383E+14
+216;Van Nuys;District 3;2,40568E+14;2,27777E+14
+217;Venice;District 3;1,71955E+14;8,01292E+14
+218;Vernon;District 4;2,4609E+13;1,32029E+14
+219;Veterans Administration;District 3;8,85143E+14;2,30476E+14
+220;Vincent;District 1;1,90981E+14;3,74251E+14
+221;Walnut;District 1;2,80627E+14;2,27887E+13
+222;Walnut Park;District 4;7,17043E+14;1,85571E+14
+223;West Adams;District 2;1,02586E+14;3,74695E+14
+224;West Carson;District 2;1,26612E+14;5,74784E+14
+225;Westchester;District 2;3,03868E+14;2,73039E+13
+226;West Compton;District 2;9,53831E+14;4,17594E+14
+227;West Covina;District 1;6,14748E+13;4,0755E+13
+228;West Hills;District 3;2,57821E+14;2,16073E+14
+229;West Hollywood;District 3;1,77622E+14;4,77501E+14
+230;Westlake;District 1;1,08613E+14;6,87282E+14
+231;Westlake Village;District 3;1,97175E+14;1,42942E+14
+232;West Los Angeles;District 3;7,09503E+14;2,65417E+14
+233;West Puente Valley;District 1;1,79234E+14;4,69531E+14
+234;West San Dimas;District 5;7,33595E+14;8343778518
+235;West Whittier-Los Nietos;District 4;2,28374E+14;6,60539E+14
+236;Westwood;District 3;1,52237E+14;9,29754E+13
+237;Whittier;District 4;4,91613E+13;3,72411E+14
+238;Whittier Narrows;District 1;2,2589E+14;7,33127E+14
+239;Wilmington;District 4;4,42518E+12;2,3043E+13
+240;Windsor Square;District 2;5,32628E+13;1,72882E+14
+241;Winnetka;District 3;1,54788E+14;1,21045E+14
+242;Woodland Hills;District 3;3,27354E+14;3,73999E+14
+243;Westside South Central;District 2;6,76324E+14;8,65887E+13
+244;Eastside South Central;District 2;4,25389E+14;5,2122E+14

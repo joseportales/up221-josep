@@ -1,0 +1,259 @@
+name;year;denom_tot_workers;Commute Time Above 1 Hour
+Irwindale;2021;804,94;15.25
+Pico-Union;2021;18793,13;16.64
+Glendora;2021;25208,2;17.26
+Industry;2021;6066,56;16.16
+Sylmar;2021;36939,14;11.57
+Torrance;2021;70154,91;11.26
+Alhambra;2021;40794,02;11.12
+Pico Rivera;2021;29852,18;14.06
+Rolling Hills Estates;2021;3825,14;16.49
+Signal Hill;2021;6158,4;16.35
+Hawthorne;2021;44147,81;12.69
+North Hills;2021;27787,51;17.07
+Hacienda Heights;2021;24996,09;18.38
+Harbor Gateway;2021;19029,58;11.67
+Lopez/Kagel Canyons;2021;598,75;12.84
+Citrus;2021;6326,3;11
+Lake Balboa;2021;13589,97;14.99
+Granada Hills;2021;26942,93;16.11
+Palms;2021;26928,77;5.39
+Santa Monica;2021;49118,23;6.79
+Pacoima;2021;32991,73;12.66
+Toluca Lake;2021;5397,99;10.99
+Veterans Administration;2021;158,38;6.21
+Valley Village;2021;14460,75;11.31
+Brentwood;2021;18174,45;7.21
+Pomona;2021;68581,93;16.79
+South Whittier;2021;26004,39;17.57
+Pasadena;2021;73180,92;11.97
+Winnetka;2021;26104,59;14.37
+Palmdale;2021;68335,62;31.54
+Porter Ranch;2021;11524,33;16.52
+South El Monte;2021;8880,37;11.17
+Tujunga Canyons;2021;3324,3;32.67
+Commerce;2021;4936,4;11.17
+San Fernando;2021;11265,64;12.98
+Sherman Oaks;2021;40386,91;14.81
+Bradbury;2021;367,94;10.78
+Panorama City;2021;32084,62;14.52
+Northridge;2021;33560,78;13.08
+Culver City;2021;21311,95;6.1
+Lakewood;2021;41779,19;10.45
+Compton;2021;40925,8;11.07
+Vernon;2021;130,76;12.13
+San Dimas;2021;17272,8;17.73
+Inglewood;2021;53386,11;13.12
+Charter Oak;2021;4465,64;18.83
+Paramount;2021;24407,24;10.53
+San Pedro;2021;38447,18;12.55
+Lincoln Heights;2021;12800,02;13.43
+Boyle Heights;2021;37677,43;14.2
+Historic South-Central;2021;21364,81;17.43
+Avalon;2021;1860,36;0
+Westlake;2021;54637,73;20.05
+Mission Hills;2021;8797,73;14.23
+Quartz Hill;2021;4476,1;22.09
+Marina del Rey;2021;6471,37;0
+Bell;2021;14544,27;15.76
+Long Beach;2021;226941,42;12.77
+San Gabriel;2021;19179,26;11.35
+Downey;2021;54634,02;13.85
+Diamond Bar;2021;23001,42;18.93
+La Canada Flintridge;2021;8558,8;9.72
+West Covina;2021;52367,16;17.21
+Redondo Beach;2021;37959,17;14.47
+Vermont Square;2021;23163,93;18.7
+Santa Fe Springs;2021;10594,97;11.28
+Calabasas;2021;10317,24;19.97
+Altadena;2021;20123,49;11.55
+Bell Gardens;2021;16984,26;13.29
+Sun Valley;2021;32075,2;10.69
+Playa Vista;2021;8342,39;10
+Carson;2021;43819,79;9.55
+Hollywood Hills;2021;12360,07;12.23
+Lancaster;2021;63403,71;18.21
+Leona Valley;2021;331,3;13.76
+Whittier;2021;39728,8;17.09
+Walnut;2021;13174,12;20.42
+Castaic Canyons;2021;22375,7;22.78
+Silver Lake;2021;17153,53;13.07
+Whittier Narrows;2021;249,74;29.97
+Glendale;2021;92795,96;10.31
+West Whittier-Los Nietos;2021;10871,16;13.33
+Atwater Village;2021;6679,6;11.81
+East Whittier;2021;4688,75;17.97
+El Sereno;2021;17937,21;13.16
+Montecito Heights;2021;9285,62;14.04
+Florence;2021;22437,83;18.59
+Huntington Park;2021;24986,71;14.57
+Cheviot Hills;2021;3949,39;4.92
+Cypress Park;2021;4064,53;16.16
+Desert View Highlands;2021;1007,32;24.83
+Baldwin Park;2021;33853,9;13.17
+Montebello;2021;29700,97;14.52
+Leimert Park;2021;5412,71;15.9
+Santa Clarita;2021;88261,35;22.03
+Elysian Park;2021;1222,24;12.02
+Wilmington;2021;23759,05;8.48
+Jefferson Park;2021;11434,54;15.16
+Downtown;2021;32222,34;12.27
+Encino;2021;22062,8;15.9
+West Adams;2021;9768,46;11.31
+Hawaiian Gardens;2021;6288,89;6.89
+Agoura Hills;2021;8032,5;15.27
+Baldwin Hills/Crenshaw;2021;15452,7;13.24
+Lake View Terrace;2021;5160,54;16.16
+Adams-Normandie;2021;8266,71;17.02
+El Monte;2021;48683,37;11.63
+Rancho Dominguez;2021;1610,46;18.16
+Acton;2021;1448,51;42.38
+Studio City;2021;22631,26;10.94
+La Puente;2021;17796,78;15.9
+North Hollywood;2021;40152,79;13.45
+Rosemead;2021;23275,91;12.58
+San Marino;2021;5501,75;9.62
+East San Gabriel;2021;9789,67;13.09
+South Park;2021;14909,65;19.11
+Burbank;2021;54830,83;11.19
+Woodland Hills;2021;35051,78;20.36
+Angeles Crest;2021;1014,16;33.24
+East Compton;2021;5148,33;11.69
+Chatsworth;2021;26531,64;14.69
+Mayflower Village;2021;4776;11.8
+Koreatown;2021;55032,08;14.28
+South Gate;2021;41502,42;13.84
+Elysian Valley;2021;3804;18.55
+Claremont;2021;17954,11;14.39
+Avocado Heights;2021;6457,78;15.45
+South San Gabriel;2021;3539,51;11.77
+Northwest Antelope Valley;2021;1737,87;20.8
+Echo Park;2021;19771,27;12.89
+Lynwood;2021;27420,91;13.02
+Unincorporated Santa Susana Mountains;2021;10319,53;20.46
+Shadow Hills;2021;5866,93;18.48
+La Habra Heights;2021;3198,22;13.78
+Covina;2021;28640,61;18.17
+Northwest Palmdale;2021;1351,36;13.39
+Sawtelle;2021;25586,15;5.74
+Rancho Park;2021;2730,65;6.23
+East Los Angeles;2021;51845,26;13.39
+Beverlywood;2021;2794,55;3.65
+Bellflower;2021;37765,08;11.66
+Azusa;2021;23366,74;14.02
+Del Rey;2021;16287,4;8.58
+Mid-Wilshire;2021;23508,16;7.05
+North Whittier;2021;3179,38;18.6
+Beverly Crest;2021;4597,19;10.99
+Cerritos;2021;22052,22;16.52
+West Hills;2021;19140,31;16.04
+Vincent;2021;6824,24;13.53
+Sun Village;2021;700,41;30.46
+Playa del Rey;2021;6512,17;14.07
+Valinda;2021;9261,32;19.67
+Tujunga;2021;12674,72;12.95
+Exposition Park;2021;15943,01;19.24
+Eagle Rock;2021;17110,93;11.57
+Harbor City;2021;12089,01;13.17
+Southeast Antelope Valley;2021;3147,2;34.66
+Reseda;2021;35152,96;15.99
+Willowbrook;2021;14881,81;14.92
+Highland Park;2021;26208,44;16.04
+Temple City;2021;16907,96;14.4
+Westlake Village;2021;3522,98;14.28
+Pico-Robertson;2021;8190,44;4.66
+Monrovia;2021;19687,41;13.36
+Broadway-Manchester;2021;11341,64;16.63
+Sunland;2021;8261,77;14.43
+Agua Dulce;2021;2073,33;21.8
+Malibu;2021;4185,17;14.98
+Topanga;2021;3782,63;18.65
+Northeast Antelope Valley;2021;6692,02;28.64
+Arleta;2021;16799,37;12.49
+Van Nuys;2021;56903,75;17.88
+Mar Vista;2021;20041,97;6.2
+Valley Glen;2021;27733,33;17
+Arcadia;2021;26573,58;13.53
+Windsor Square;2021;3149,84;6.09
+West Puente Valley;2021;8467,57;15.63
+Central-Alameda;2021;19497,87;16.48
+Arlington Heights;2021;9500,93;12.56
+Harvard Heights;2021;8247,31;14.94
+Harvard Park;2021;4602,44;18.2
+East Hollywood;2021;33015,03;15.56
+Lennox;2021;8744,85;12.13
+Larchmont;2021;4663,54;6.21
+Tarzana;2021;17012,92;17.79
+Rolling Hills;2021;910,17;11.88
+Mid-City;2021;26869,06;8.92
+Westchester;2021;21430,78;6.24
+Manchester Square;2021;5455,47;20.79
+Rowland Heights;2021;21777,09;13.74
+Ridge Route;2021;2894,11;13.9
+South San Jose Hills;2021;8950,35;12.15
+Vermont-Slauson;2021;12611,3;19.33
+Athens;2021;4414,99;10.08
+Mount Washington;2021;7362,62;13.34
+West Compton;2021;2853,16;7.78
+Los Feliz;2021;19477,74;11.5
+Chinatown;2021;5167,03;11.17
+Century City;2021;2769,37;4.57
+Florence-Firestone;2021;25798,48;14.37
+University Park;2021;8272,45;10.11
+Hollywood Hills West;2021;8043,07;10.98
+Unincorporated Santa Monica Mountains;2021;8489,19;18.41
+West Los Angeles;2021;7407,94;2.54
+Hancock Park;2021;5749,47;4.08
+Canoga Park;2021;32395,65;15.36
+Chesterfield Square;2021;3849,5;17.68
+Hidden Hills;2021;636,91;11.9
+Norwalk;2021;46725,52;12.04
+North El Monte;2021;1137,25;10.1
+Monterey Park;2021;26860,76;11.12
+Hollywood;2021;42756,36;11.1
+Fairfax;2021;7755,12;10.58
+Glassell Park;2021;12032,1;11.57
+Watts;2021;14406,51;17.84
+La Verne;2021;14088,51;16.49
+Rancho Palos Verdes;2021;17633,04;16.08
+Green Meadows;2021;14153,82;16.67
+Del Aire;2021;4003,93;10.66
+Vermont Knolls;2021;9036,95;17.11
+Castaic;2021;5351,84;18.99
+Westwood;2021;21125,35;4.01
+Venice;2021;19495,46;8.91
+South Diamond Bar;2021;1775,42;22.5
+Universal City;2021;;
+Pacific Palisades;2021;9546;5.78
+Bel-Air;2021;2750,39;11.89
+East Pasadena;2021;2490,24;12.3
+Cudahy;2021;9256,22;17.47
+Palos Verdes Estates;2021;5174,75;17.01
+Ladera Heights;2021;2786,87;4.9
+Walnut Park;2021;7533,06;16.55
+La Crescenta-Montrose;2021;9239,33;15.75
+Gardena;2021;29703,47;9.94
+Duarte;2021;10261,47;12.8
+La Mirada;2021;23455,7;13.23
+Maywood;2021;11464,66;15.23
+Alondra Park;2021;3869,87;16.85
+Beverly Grove;2021;12337,8;6.38
+Vermont Vista;2021;10422,64;18.36
+Lawndale;2021;16441,29;8.69
+Hyde Park;2021;15389,35;17.39
+Lomita;2021;10504,51;10.14
+South Pasadena;2021;14292,44;12.88
+Westmont;2021;13507,76;16.2
+San Pasqual;2021;1112,56;14.4
+West Hollywood;2021;23949,59;8.41
+Artesia;2021;6942,49;10.42
+Manhattan Beach;2021;15754,02;17.63
+West Carson;2021;10886,01;11.1
+Hermosa Beach;2021;11330,51;17.21
+Carthay;2021;2651,31;5.74
+Beverly Hills;2021;14785,85;9.07
+El Segundo;2021;9616,3;10.4
+View Park-Windsor Hills;2021;5383,21;11.23
+Sierra Madre;2021;5929,91;12.17
+Gramercy Park;2021;4576,99;9.27
+Aggregated;2021;4736963,22;13.96
